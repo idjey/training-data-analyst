@@ -6,9 +6,9 @@ if [ "$#" -lt 3 ]; then
    exit
 fi
 
-PROJECT=$1
+PROJECT=qwiklabs-gcp-02-60c705975756
 shift
-BUCKET=$1
+BUCKET=qwiklabs-gcp-02-60c705975756
 shift
 MAIN=com.google.cloud.training.dataanalyst.sandiego.$1
 shift
